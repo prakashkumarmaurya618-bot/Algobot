@@ -1,0 +1,11 @@
+streamlit
+smartapi-python
+python-dotenv
+pyotp
+requests
+pandas
+logzero
+websocket-client
+retrying
+matplotlib
+pytz
